@@ -1,0 +1,59 @@
+<header>
+        <h1>FIRST WEBPAGE</h1>
+    </header>
+    <nav>
+        <a href="#" target="_blank">Home</a>
+        <a href="#" target="_blank">Education</a>
+        <a href="#" target="_blank">courses</a>
+        <a href="#" target="_blank">Study Materials</a>
+        <a href="#" target="_blank">Login/SignUp</a>
+     </nav>
+     <main>
+         <section>
+         <h2>INTRO VIDEOS</h2>
+         <video src="Movie on 7-20-21 at 6.37 PM.mov" width="30%" height="22%" controls  loop poster="pic1.jpeg" ></video>
+         <video src="Movie on 7-20-21 at 6.37 PM.mov" width="30%" height="22%" controls  loop poster="pic2.jpeg" ></video>
+         <br>
+         <br>
+         <br>
+         <video src="Movie on 7-20-21 at 6.37 PM.mov" width="30%" height="22%" controls  loop poster="pic1.jpeg" ></video>
+         <video src="Movie on 7-20-21 at 6.37 PM.mov" width="30%" height="22%" controls  loop poster="pic2.jpeg" ></video>
+        
+        </section>
+        <section>
+            <h2>YouTube Reference</h2>
+            <iframe width="33%" height="22%" src="https://www.youtube.com/embed/l1EssrLxt7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="33%" height="75%" src="https://www.youtube.com/embed/Rek0NWPCNOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="33%" height="75%" src="https://www.youtube.com/embed/sqJ6xZ9mUwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        </section>
+        <section>
+            <h2>ADVANCE TRAINING CERTIFICATES </h2>
+            <a target="_blank" href="INDUSTRIAL TRAINING REPORT ON C EEE.docx" ><img src="pic 4.png" alt="" width="24%" height="60%"></a>
+            <a target="_blank" href="Certificate-A Webinar on How to Build Android App.pdf" ><img src="picapp.jpeg" alt="" width="24%" height="60%"></a>
+            <a target="_blank" href="Cybersecurity Awareness training provided by Amazon.pdf" ><img src="cyber.jpeg" alt="" width="24%" height="60%"></a>
+            <a target="_blank" href="Cybersecurity Awareness training provided by Amazon.pdf" ><img src="web.jpeg" alt="" width="24%" height="60%"></a>
+
+          
+        </section>
+        <section>
+            <h2>ABOUT THIS WEB OWNER</h2>
+            <img src="abhinav photojpg (1).jpg" width="22%" height="33%" alt="">
+            <h3>ABHINAV KUMAR SINGH</h3>
+            <a target="_blank" href="https://www.linkedin.com/jobs/view/2746679705/">LinkeDin</a>&nbsp;
+            <a target="_blank" href="https://www.facebook.com/profile.php?id=100008255077108">FaceBook</a>&nbsp;
+            <a target="_blank" href="https://www.instagram.com/">Instagram</a>&nbsp;
+            <h4>
+                “I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards. I'm not comfortable with settling, and I'm always looking for an opportunity to do better and achieve greatness. also I intend to be a part of an organization where I can constantly learn and develop my technical skills and make best use of it for the growth of the organization. i look forward to establishing myself by adapting new technologies as well.
+            </h4>
+        </section>
+     </main>
+<footer>
+    <a href="#">FAQ</a>
+    <a href="#">contact us</a>
+    <a href="#">Terms of use</a>
+    <a href="#">Privacy policy</a>
+    <a href="#">Refund Querry</a>
+    <a href="#">Others</a>
+    <a href="#">&copy; 2021 | First WEBPAGE</a>
+</footer>
